@@ -124,7 +124,7 @@ Built using **React-JS and CSS**.
 
 ## Cloning And Running App
 
-1. Clone the repository:
+1. Clone the repository(Alt. download zip file, see video):
 ```bash
 git clone https://github.com/AllenBuhle1/FullStack-Financial-Dashboard.git
 ```
