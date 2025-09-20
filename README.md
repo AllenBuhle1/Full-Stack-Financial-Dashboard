@@ -122,7 +122,7 @@ Built using **React-JS and CSS**.
 
 ---
 
-## Testing App
+## Cloning And Running App
 
 1. Clone the repository:
 ```bash
@@ -165,7 +165,7 @@ npm start
 
 ---
 
-## Clone and Demo Video
+## Demonstration
 
-This project is licensed under the MIT License.  
+Demo video on how to clone and run this app
 [Youtube: Demo Video](https://youtube.com)
