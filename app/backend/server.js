@@ -12,7 +12,7 @@ app.use(express.json());
 const pool = mysql.createPool({
   host: 'localhost',
   user: 'root',       // Enter Your Database name
-  password: '4683@2001MySQL', // Enter Your database password
+  password: '******', // Enter Your database password
   database: 'finance_app'
 });
 
