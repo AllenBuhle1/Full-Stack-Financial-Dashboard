@@ -167,5 +167,5 @@ npm start
 
 ## Demonstration
 
-Demo video on how to clone and run this app
+Demo video on how to clone and run this app.
 [Youtube: Demo Video](https://youtube.com)
