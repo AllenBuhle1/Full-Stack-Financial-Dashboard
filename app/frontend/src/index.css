@@ -1,0 +1,82 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  padding: 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.upload-container {
+  margin-bottom: 20px;
+  display: flex;
+  gap: 10px;
+}
+.upload-message {
+  margin-top: 15px;
+  padding: 10px;
+  background: rgba(0, 209, 255, 0.1);
+  border: 1px solid #00d1ff;
+  border-radius: 8px;
+  color: #00ffea;
+  font-weight: bold;
+}
+
+.upload-container input {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}
+.filter-container {
+  margin: 20px 0;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.filter-container label {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  color: #00d1ff;
+}
+
+.filter-container select,
+.filter-container input {
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 5px;
+}
+
+.upload-container button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: #00d1ff;
+  color: #000;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.dashboard-container table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.dashboard-container table th,
+.dashboard-container table td {
+  border: 1px solid #fff;
+  padding: 8px;
+  text-align: center;
+}
+
+.dashboard-container table th {
+  background-color: rgba(255,255,255,0.2);
+}
